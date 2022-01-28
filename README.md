@@ -32,7 +32,8 @@ print('The number of words in the  file are :',count)
 ```
 
 ### OUTPUT:
-![githublogo](10.png)
+![githublogo](word.png)
+![githublogo](word1.png)
 
 
 
