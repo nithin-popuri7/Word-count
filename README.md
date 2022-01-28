@@ -15,8 +15,8 @@ Anaconda - Python 3.7
 
 ### Step 5:Declare variable word = i.split().
 
-### Step 6:Process count+=len(word)
-End loop
+### Step 6:Process count+=len(word)End loop
+
 ### Step 7:Print the value of count, w
 
 ## PROGRAM:
